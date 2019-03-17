@@ -4,8 +4,12 @@
   "author": "Baraka Larbi (laridev for short)",
   "private": true,
   "dependencies": {
+    "json-formatter-js": "^2.2.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-highlight.js": "^1.0.7",
+    "react-json-editor-ajrm": "^2.5.9",
+    "react-json-view": "^1.19.1",
     "react-particles-js": "^2.4.2",
     "react-redux": "^6.0.1",
     "react-scripts": "2.1.8",
